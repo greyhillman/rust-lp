@@ -1,0 +1,6 @@
+[package]
+name = "rust-lp"
+version = "0.1.0"
+authors = ["Grey Hill <infogreytech@gmail.com>"]
+
+[dependencies]
